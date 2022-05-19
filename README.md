@@ -1,5 +1,8 @@
 ### Hi I am Debashis 👋
 
+- I am a research scholar at Indian Institute of Technology, Mandi, Himachal Pradesh (India). 
+
+
 <!--
 **debaonline4u/debaonline4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

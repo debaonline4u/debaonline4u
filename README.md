@@ -8,7 +8,10 @@
 - My research publications 
     - <a href="https://doi.org/10.1109/ICCCNT49239.2020.9225449" >Comparative Analysis of Multi-Step Time-Series Forecasting for Network Load Dataset</a>
 
-- LinkedIn Profile <a href = "https://www.linkedin.com/in/debashissahoo12/">Link</a>
+- My LinkedIn Profile <a href = "https://www.linkedin.com/in/debashissahoo12/">Link</a>
+- I am open to work for below Job titles and Job locations,
+    - Job titles: · Data Scientist · Machine Learning Researcher · Quantitative Analyst · Quantitative Researcher · Quant Developer
+    - Preferred job locations: · Bangalore · Hyderabad · Mumbai · UK (with sponsored visa) · USA (with sponsored visa) · Singapore
 
 <!--
 **debaonline4u/debaonline4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

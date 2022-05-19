@@ -5,6 +5,8 @@
 - During my masters, I worked 2 research projects. 
     - Design of Advanced Big Data Analytics in the CygNet Management System for large telecom networks - Sponsored by MHRD [June 2018 to May 2021]
     - Classification of sonar signals using deep convolution neutral networks - Sponsored by - DRDO [Aug 2021 to Feb 2022]
+- My research publications 
+    - <a href="https://doi.org/10.1109/ICCCNT49239.2020.9225449" >Paper1</a>
 
 <!--
 **debaonline4u/debaonline4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

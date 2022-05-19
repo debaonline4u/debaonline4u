@@ -1,7 +1,10 @@
 ### Hi I am Debashis 👋
 
 - I am a research scholar at Indian Institute of Technology, Mandi, Himachal Pradesh (India). 
-
+- My research area includes Time series forecasting, Algorithmic trading, Portfolio optimization, Machine learning and Deep learning. 
+- During my masters, I worked 2 research projects. 
+    - Design of Advanced Big Data Analytics in the CygNet Management System for large telecom networks - Sponsored by MHRD [June 2018 to May 2021]
+    - Classification of sonar signals using deep convolution neutral networks - Sponsored by - DRDO [Aug 2021 to Feb 2022]
 
 <!--
 **debaonline4u/debaonline4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -7,6 +7,7 @@
     - Classification of sonar signals using deep convolution neutral networks - Sponsored by - DRDO [Aug 2021 to Feb 2022]
 - My research publications 
     - <a href="https://doi.org/10.1109/ICCCNT49239.2020.9225449" >Comparative Analysis of Multi-Step Time-Series Forecasting for Network Load Dataset</a>
+    - A novel multi-day ahead index price forecast using multi-output based deep learning system.
 
 - My LinkedIn Profile <a href = "https://www.linkedin.com/in/debashissahoo12/">Link</a>
 - I am open to work for below Job titles and Job locations,
